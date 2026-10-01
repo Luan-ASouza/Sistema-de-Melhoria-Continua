@@ -11,6 +11,14 @@ otimizadas com uma solução digital.
 
 ------------------------------------------------------------------------
 
+# Demonstração
+
+O sistema está disponível online:
+
+[Acessar o Sistema de Melhoria Contínua](https://cartoes-de-melhoria.vercel.app/)
+
+------------------------------------------------------------------------
+
 # Sobre o projeto
 
 Em muitos ambientes operacionais, informações importantes são
